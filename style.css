@@ -1,0 +1,50 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.size{
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    text-decoration: aliceblue;
+    font-size: 20px;
+    background-color: blueviolet;
+}
+
+.picture img{
+    width: 500px;
+    height: 500px;
+}
+
+.irakli1 p{
+    font-size: 25px;
+    font-weight:700;
+    text-decoration: bold;
+    margin-left: 20px;
+    color:rgb(118, 243, 17);
+    line-height: 30px;
+}
+
+.irakli2 p{
+    font-size: 25px;
+    font-weight:800;
+    font-style: italic;
+    margin-right: 20px;
+    color: rgb(38, 41, 230);
+    line-height: 30px;
+}
+.irakli{background-color: rgb(206, 33, 76);}
+
+
+
+
+
+
+
+
+
+
+
